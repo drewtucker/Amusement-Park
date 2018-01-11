@@ -10,6 +10,10 @@ img {
   width: auto;
 }
 
+h4 {
+  padding-top: 4.5vw;
+}
+
 #merry-go-round {
   display: none;
   text-align: center;
@@ -17,8 +21,10 @@ img {
 
 #roller-coaster {
   display: none;
+  text-align: center;
 }
 
 #extreme-coaster {
   display: none;
+  text-align: center;
 }
