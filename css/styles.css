@@ -1,0 +1,23 @@
+.btn {
+  margin-top: 1.5vw;
+}
+
+img {
+  display: block;
+  max-height: 500px;
+  max-width: 500px;
+  height: auto;
+  width: auto;
+}
+
+#merry-go-round {
+  display: none;
+}
+
+#roller-coaster {
+  display: none;
+}
+
+#extreme-coaster {
+  display: none;
+}
